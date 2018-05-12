@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '2217'
     url: http://www.gutenberg.org/2009/agents/2217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17789#Molly-McDonaldA-Tale-of-the-Old-Frontier
 gutenberg_issued: '2006-02-18'
 gutenberg_type: Text
 identifiers:
