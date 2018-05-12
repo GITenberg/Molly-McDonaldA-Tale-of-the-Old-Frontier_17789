@@ -1,0 +1,36 @@
+_repo: Molly-McDonaldA-Tale-of-the-Old-Frontier_17789
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Blumenschein, Ernest L.
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '7601'
+    url: http://www.gutenberg.org/2009/agents/7601
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_L._Blumenschein
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: ''
+gutenberg_issued: '2006-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women pioneers -- Fiction'
+- !lcc 'PS'
+title: 'Molly McDonald
+
+  A Tale of the Old Frontier'
+url: http://www.gutenberg.org/ebooks/17789
